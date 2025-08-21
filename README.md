@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mide!
+# 👋 Hey, I'm Ayomide!
 
 🎯 **Frontend Developer | UI Craftsman | Web3 Curious**  
 Designing seamless user experiences with clean, scalable code.
