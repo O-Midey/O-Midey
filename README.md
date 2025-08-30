@@ -76,21 +76,6 @@ Mobile-first applications with offline capability and native-like experiences.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=O-Midey&theme=radical)](https://git.io/streak-stats)
 
----
-
-## 🌟 Featured Projects
-
-### 🚀 [Project Name](https://github.com/O-Midey/project-name)
-**Fullstack E-commerce Platform** - Next.js, Node.js, PostgreSQL, Stripe  
-Modern e-commerce solution with admin dashboard, real-time inventory, and payment processing.
-
-### 🎯 [Project Name](https://github.com/O-Midey/project-name)
-**Task Management dApp** - React, Solidity, Web3.js, IPFS  
-Decentralized task management with smart contract rewards and IPFS file storage.
-
-### 💡 [Project Name](https://github.com/O-Midey/project-name)
-**API Gateway Service** - Node.js, Redis, Docker, AWS  
-Microservices architecture with rate limiting, caching, and load balancing.
 
 ---
 
@@ -119,7 +104,7 @@ Microservices architecture with rate limiting, caching, and load balancing.
 - 💻 **GitHub**: [O-Midey](https://github.com/O-Midey)
 - 🐦 **Twitter**: [@meeedzy](https://twitter.com/meeedzy)
 - 💼 **LinkedIn**: [omotoshodavid](https://linkedin.com/in/omotoshodavid)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: talk2adeoluwa2310@gmail.com
 
 ---
 
