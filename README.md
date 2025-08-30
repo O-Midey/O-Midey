@@ -14,7 +14,6 @@ I specialize in creating scalable applications that are both visually stunning a
 - ⚡ **Backend**: Building APIs and services with **Node.js**, **Express**, **tRPC**, and **Prisma**
 - 🗄️ **Database**: Working with **PostgreSQL**, **MongoDB**, and **Redis** for data persistence
 - 🔗 **Web3**: Developing dApps with **Solidity**, **ethers.js**, and smart contract integration
-- ☁️ **DevOps**: Deploying with **Docker**, **AWS**, **Vercel**, and **Railway**
 - 📍 Based in Lagos, Nigeria 🇳🇬
 
 ---
