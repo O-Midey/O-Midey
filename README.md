@@ -42,11 +42,6 @@ I specialize in creating scalable applications that are both visually stunning a
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
