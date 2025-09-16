@@ -103,6 +103,10 @@ Mobile-first applications with offline capability and native-like experiences.
 
 ---
 
+[![An image of @omidey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omidey)](https://holopin.io/@omidey)
+
+---
+
 > *"Code is poetry written for machines to execute and humans to understand."*  
 > Building tomorrow's web, today. Always learning, always shipping. 🚢
 
