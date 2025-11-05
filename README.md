@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ayomide!
 
-🎯 **Fullstack Developer | UI/UX Craftsman | Web3 Engineer**  
+**Fullstack Developer | UI/UX Craftsman | Web3 Engineer**  
 Building end-to-end digital experiences with modern tech and clean architecture.
 
 ---
