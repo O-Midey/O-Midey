@@ -95,7 +95,7 @@ Mobile-first applications with offline capability and native-like experiences.
 
 ## 📫 Let's Connect & Collaborate
 
-- 🌐 **Portfolio**: [omotoshodavid.vercel.app](https://mide-portfolio.vercel.app/)
+- 🌐 **Portfolio**: [omotoshodavid.vercel.app](https://omotoshodavid.vercel.app/)
 - 💻 **GitHub**: [O-Midey](https://github.com/O-Midey)
 - 🐦 **Twitter**: [@meeedzy](https://twitter.com/meeedzy)
 - 💼 **LinkedIn**: [omotoshodavid](https://linkedin.com/in/omotoshodavid)
