@@ -1,6 +1,6 @@
-### Omotosho David Ayomide
+### Hey, I'm Omotosho David Ayomide 👋
 
-**Fullstack & AI Engineer** building agentic systems, on-chain applications, and production-grade web platforms. Based in Lagos, Nigeria.
+I'm a **Fullstack & AI Engineer** building agentic systems, on-chain applications, and production-grade web platforms. Based in Lagos, Nigeria.
 
 I work at the intersection of three things: AI engineering (agent loops, tool use, LLM reliability), Web3 (Solidity, EVM, non-custodial wallets), and fullstack product delivery (TypeScript, Next.js, Node.js, Postgres). My focus is building systems that actually ship — measurable, safe, and clean enough to maintain.
 
@@ -20,15 +20,6 @@ TypeScript · Next.js · Node.js (Fastify, Express) · Prisma · PostgreSQL · T
 
 **Currently leveling up:** Python for AI engineering tooling, eval-driven LLM development, and MCP server design.
 
----
-
-**Selected work**
-
-- Built AI-powered ERP features at **TechMomentum** integrating OpenAI APIs into structured business workflows.
-- Engineered backend services at **Tingo AI**, **Havesta**, and **MASADA Blockchain** (Cosmos SDK / Go).
-- Designed and shipped the admin panel and security audit-trail system for **Mankorie Global Energy**.
-
----
 
 **Reach me**
 
