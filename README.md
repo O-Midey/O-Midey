@@ -1,26 +1,36 @@
-### Hey, I'm Omotosho David Ayomide 👋
+# Hi, I'm David 👋
 
-I'm a **Fullstack & AI Engineer** building agentic systems, on-chain applications, and production-grade web platforms. Based in Lagos, Nigeria.
+I build reliable fullstack web apps and AI systems, developer tools, and Web3 products.
 
-I work at the intersection of three things: AI engineering (agent loops, tool use, LLM reliability), Web3 (Solidity, EVM, non-custodial wallets), and fullstack product delivery (TypeScript, Next.js, Node.js, Postgres). My focus is building systems that actually ship — measurable, safe, and clean enough to maintain.
+My work focuses on the engineering around intelligent software: typed tool boundaries, human approval, observable execution, secure defaults, and systems that remain understandable when something fails.
 
----
+I recently shipped **Beacon**, a local-first AI tool that turns Git commits into reviewable build-in-public drafts. I am also hardening **Ledgr**, an experimental agentic operating layer for crypto wallets.
 
-**Currently building**
+## Selected work
 
-- **Ledgr** — an agentic crypto wallet OS where a planner → tool router → execution gateway → safety supervisor pipeline turns natural-language goals into safe on-chain actions. Vercel AI SDK, viem/wagmi, Sepolia.
-- **Ward** — a non-custodial EVM PWA with AES-GCM encrypted local storage and BIP-32/44 HD derivation.
-- **ChainVote** — an on-chain voting dApp on Base L2 with IPFS-stored proposals, currently being hardened with Foundry fuzz tests.
+### [Beacon](https://github.com/O-Midey/beacon)
 
----
+A local-first CLI that turns Git commits into editable build-in-public drafts without auto-posting. It uses a staged `capture -> safety -> significance -> draft -> queue` pipeline, supports cloud and local models, and keeps a human approval step before content leaves the machine.
 
-**Stack I work in daily**
+### [Ledgr](https://github.com/O-Midey/ledgr)
 
-TypeScript · Next.js · Node.js (Fastify, Express) · Prisma · PostgreSQL · Tailwind · Solidity · viem / wagmi · Vercel AI SDK · Go · Linux (Hetzner VPS)
+An experimental agentic operating layer that translates natural-language goals into reviewable on-chain actions through separate planning, routing, execution, and safety stages. Built with Next.js, TypeScript, the Vercel AI SDK, viem, and wagmi; currently limited to Sepolia while its execution controls are being hardened.
 
-**Currently leveling up:** Python for AI engineering tooling, eval-driven LLM development, and MCP server design.
+### [Streamkit](https://github.com/O-Midey/streamkit)
 
+Vendor-agnostic React and TypeScript primitives for streaming LLM interfaces: incremental Markdown, tool-call state machines, resumable streams, and multi-stream orchestration. Published with typed adapters for the Vercel AI SDK, Anthropic, and OpenAI.
 
-**Reach me**
+### [Proxima](https://github.com/O-Midey/proxima)
 
-Portfolio · [omotosho.xyz](https://omotosho.xyz) | LinkedIn · [omotoshodavid](https://linkedin.com/in/omotoshodavid) | X · [@meeedzy](https://twitter.com/meeedzy)
+A self-hosted HTTP(S) network inspector written in Go. It combines a standard-library MITM proxy, SQLite-backed capture, live WebSocket updates, replay and diff tooling, interception rules, and HAR export in a single binary.
+
+## Engineering interests
+
+- Reliable AI agents: tool calling, verification, safety boundaries, evals, and observability
+- Distributed and backend systems: Go, PostgreSQL, APIs, concurrency, and failure recovery
+- Full-stack products: TypeScript, Next.js, Fastify, Prisma, and responsive React interfaces
+- Web3 infrastructure: Solidity, viem, EVM execution, transaction safety, and auditable workflows
+
+## Catch me here 
+
+[Portfolio](https://omotosho.xyz) · [LinkedIn](https://linkedin.com/in/omotoshodavid)
